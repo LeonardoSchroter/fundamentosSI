@@ -1,4 +1,4 @@
 Replit é um sistema WEB
 Arquitetura Cliente-Serviodr (editor e compilador de linguagem)
-Modelo SaaS - Software como Serviço
+Modelo SaaS - Software como Serviço ou Software as a Service
 É um SIG, SAD e um SC.
